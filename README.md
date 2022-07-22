@@ -1,16 +1,12 @@
 # travel
 
-A new Flutter project.
-
+Travel app design.
+i did this ui design for Guideasy Ltd
+Guideasy Ltd is a online startup company that provide all in one solution for traveller.
+Framework:Flutter
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+#Screenshots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1658232831](https://user-images.githubusercontent.com/99485727/180490036-147551d4-7909-44a7-8306-24aa2a36842b.png)
+![Screenshot_1658232838](https://user-images.githubusercontent.com/99485727/180490061-1b83fabe-8b45-4451-91a9-8bdf6b91f961.png)
